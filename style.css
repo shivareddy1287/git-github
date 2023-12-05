@@ -1,5 +1,6 @@
 h1 {
   font-size: 30px;
+  background-color: aquamarine;
 }
 
 h2 {
@@ -7,13 +8,9 @@ h2 {
 }
 
 h3 {
-  font-size: 40px;
+  font-size: px;
 }
 
-h4 {
-  font-size: 140px;
-}
-
-.master {
-  color: aqua;
+.feature-2 {
+  background-color: antiquewhite;
 }
